@@ -1,0 +1,4 @@
+curl --request GET 
+	--url 'https://bing-web-search1.p.rapidapi.com/search?mkt=en-us&safeSearch=Off&textFormat=Raw&freshness=Day' 
+	--header 'x-rapidapi-host: bing-web-search1.p.rapidapi.com' 
+	--header 'x-rapidapi-key: 84b41d3555mshe80406780df636dp1dbfa1jsnb9164da048b2'
